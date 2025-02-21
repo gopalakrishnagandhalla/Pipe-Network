@@ -91,7 +91,7 @@ sudo fuser -k 8003/tcp
 ```
 
 # Thank you for Visiting
-Done !! Feel free to ask queries in telegram channel
-Telegram - https://t.me/CryptoAcademy0616
-Youtube - https://www.youtube.com/@CryptoAcademy_Telugu
-Twitter - https://x.com/CryptoAcademy_O
+- Done !! Feel free to ask queries in telegram channel
+- Telegram - https://t.me/CryptoAcademy0616
+- Youtube - https://www.youtube.com/@CryptoAcademy_Telugu
+- Twitter - https://x.com/CryptoAcademy_O
